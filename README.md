@@ -6,9 +6,10 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **backend projects with Go & PostgreSQL**
-- 🌱 Learning **microservices architecture & system design**
+- 🌱 Learning **Algorithms and Data Structures**
 - 💬 Ask me about **REST APIs, Docker, databases**
 - 📫 Reach me at **raissovbeka@gmail.com**
+- 📫 How to reach me tg - **@raissov01**
 - ⚡ Fun fact: **I turn coffee into clean code ☕**
 
 ---
