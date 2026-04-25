@@ -8,7 +8,7 @@
 - 🔭 Currently working on **backend projects with Go & PostgreSQL**
 - 🌱 Learning **microservices architecture & system design**
 - 💬 Ask me about **REST APIs, Docker, databases**
-- 📫 Reach me at **your.email@gmail.com**
+- 📫 Reach me at **raissovbeka@gmail.com**
 - ⚡ Fun fact: **I turn coffee into clean code ☕**
 
 ---
